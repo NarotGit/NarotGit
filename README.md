@@ -1,6 +1,6 @@
 # Narotham Reddy - Data Scientist 👨‍💻
 
-Welcome to my GitHub profile! I'm Narotham, a dedicated Data Scientist with three years of experience in conducting impactful research and developing scalable data science solutions. I am passionate about leveraging data-driven insights to solve complex problems and contribute to innovative projects.
+Welcome to my GitHub profile! I'm Narotham, a dedicated Data Scientist with three years of experience in conducting impactful research and developing scalable data science solutions. I am passionate about leveraging data-driven insights to solve problems and contribute to innovative projects.
 
 ## About Me 🚀
 
