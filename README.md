@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Narotham, a dedicated Data Scientist with thre
 
 - **Name:** Narotham Reddy Sathigari
 - **Occupation:** Data Scientist
-- **Experience:** 3 years
+- **Experience:** 4 years
 - **Email:** narothamreddy.narot@gmail.com
 
 ## Expertise 💡
