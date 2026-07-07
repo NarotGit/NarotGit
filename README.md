@@ -18,13 +18,13 @@ Data Scientist / AI-ML Engineer with 5+ years of experience turning data into sc
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, R, SQL
-**ML/DL:** Scikit-learn, TensorFlow, PyTorch, XGBoost, NLTK, spaCy
-**GenAI/NLP:** LangChain, LlamaIndex, OpenAI, RAG pipelines
-**MLOps:** MLflow, Kubeflow, TFX, Docker, Kubernetes (Minikube), Prometheus, Grafana, GitHub Actions
-**APIs & Backend:** Flask, FastAPI, REST, GraphQL, gRPC
-**Databases:** PostgreSQL, Snowflake, MongoDB, Redis, VectorDB
-**Cloud:** Azure (OpenAI, AI Foundry, Blob/Data Lake), AWS (EC2, SageMaker, S3)
+**Languages:** Python, R, SQL<br>
+**ML/DL:** Scikit-learn, TensorFlow, PyTorch, XGBoost, NLTK, spaCy<br>
+**GenAI/NLP:** LangChain, LlamaIndex, OpenAI, RAG pipelines<br>
+**MLOps:** MLflow, Kubeflow, TFX, Docker, Kubernetes (Minikube), Prometheus, Grafana, GitHub Actions<br>
+**APIs & Backend:** Flask, FastAPI, REST, GraphQL, gRPC<br>
+**Databases:** PostgreSQL, Snowflake, MongoDB, Redis, VectorDB<br>
+**Cloud:** Azure (OpenAI, AI Foundry, Blob/Data Lake), AWS (EC2, SageMaker, S3)<br>
 **Visualization:** Power BI, Tableau, Plotly, Streamlit
 
 ## 💼 Experience
