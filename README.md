@@ -1,20 +1,37 @@
-# Narotham Reddy - Data Scientist 👨‍💻
+# Hi, I'm Narotham 👋
 
-Welcome to my GitHub profile! I'm Narotham, a dedicated Data Scientist with three years of experience in conducting impactful research and developing scalable data science solutions. I am passionate about leveraging data-driven insights to solve problems and contribute to innovative projects.
+Data Scientist / AI-ML Engineer with 5+ years of experience turning data into scalable, production-ready solutions. Lately I've been deep in MLOps and GenAI — and I'm exploring what's next as a Data Scientist, AI/ML Engineer, MLOps Engineer, or Forward Deployed Engineer.
 
 ## About Me 🚀
 
 - **Name:** Narotham Reddy Sathigari
 - **Occupation:** Data Scientist
-- **Experience:** 4 years
+- **Experience:** 5+ years
 - **Email:** narothamreddy.narot@gmail.com
 
-## Expertise 💡
+## 🚀 What I Do
 
-- **Machine Learning:** Expertise in designing and implementing machine learning solutions for various domains.
-- **Data Analysis:** Proficient in extracting meaningful insights from data through statistical analysis and visualization.
-- **Research:** Extensive experience in conducting research to explore new methodologies and techniques in the data science field.
-- **Scalable Solutions:** Skilled in building scalable data science solutions that meet the needs of diverse projects.
+- Build and deploy ML systems end-to-end — from data pipelines to production APIs
+- Design agentic and GenAI applications using LLMs, LangChain, and RAG
+- Set up MLOps workflows: experiment tracking, containerized training, monitoring, and CI
+- Work across prediction, forecasting, anomaly detection, NLP, and document intelligence
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, R, SQL
+**ML/DL:** Scikit-learn, TensorFlow, PyTorch, XGBoost, NLTK, spaCy
+**GenAI/NLP:** LangChain, LlamaIndex, OpenAI, RAG pipelines
+**MLOps:** MLflow, Kubeflow, TFX, Docker, Kubernetes (Minikube), Prometheus, Grafana, GitHub Actions
+**APIs & Backend:** Flask, FastAPI, REST, GraphQL, gRPC
+**Databases:** PostgreSQL, Snowflake, MongoDB, Redis, VectorDB
+**Cloud:** Azure (OpenAI, AI Foundry, Blob/Data Lake), AWS (EC2, SageMaker, S3)
+**Visualization:** Power BI, Tableau, Plotly, Streamlit
+
+## 💼 Experience
+
+- **Sr. Data Scientist** @ Blue Yonder — forecasting/prediction pipelines, Kubeflow/TFX, statistical model evaluation
+- **AI/ML Engineer** @ Rugged Monitoring — anomaly detection, document intelligence, QueryGPT
+- **Data Scientist** @ Accusaga Informatics — MMM, A/B testing, key driver analysis
 
 ## Contact 📬
 
@@ -23,10 +40,5 @@ Feel free to reach out to me via email at narothamreddy.narot@gmail.com. I'm ope
 ## Let's Connect 🌐
 
 Connect with me on [LinkedIn] https://www.linkedin.com/in/narotlink
-
-Looking forward to connecting and collaborating with fellow data enthusiasts! 🤝
-
-<!---
-NarotGit/NarotGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+                    [website] https://narotgit.github.io/
+Looking forward to connecting and collaborating with fellow enthusiasts! 🤝
