@@ -39,6 +39,6 @@ Feel free to reach out to me via email at narothamreddy.narot@gmail.com. I'm ope
 
 ## Let's Connect 🌐
 
-Connect with me on [LinkedIn] https://www.linkedin.com/in/narotlink
-                    [website] https://narotgit.github.io/
+Connect with me on [LinkedIn] https://www.linkedin.com/in/narotlink<br>
+[website] https://narotgit.github.io/
 Looking forward to connecting and collaborating with fellow enthusiasts! 🤝
